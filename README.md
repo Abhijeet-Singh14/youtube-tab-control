@@ -9,9 +9,9 @@ The YouTube Tab Control Chrome extension automatically pauses a YouTube video wh
 
 ## Features
 
-Automatically pauses YouTube videos when switching tabs.
-Automatically resumes YouTube videos when switching back to the tab.
-Lightweight and easy to use.
+-Automatically pauses YouTube videos when switching tabs.
+-Automatically resumes YouTube videos when switching back to the tab.
+-Lightweight and easy to use.
 
 ## Installation
 
@@ -33,6 +33,7 @@ Click the "Load unpacked" button and select the directory where you extracted or
 
 ### The project directory should look like this:
 
+```
 youtube-tab-control/
 │
 ├── background.js
@@ -42,6 +43,7 @@ youtube-tab-control/
 │   ├── icon48.png
 │   ├── icon128.png
 ├── manifest.json
+
 
 ### manifest.json
 This file contains the metadata for the extension, such as its name, version, permissions, and scripts to be loaded.
