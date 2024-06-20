@@ -77,6 +77,9 @@ Icons not showing: Ensure that the icons are correctly placed in the icons direc
 ## Contributing
 Feel free to fork the repository and submit pull requests for any improvements or bug fixes. Contributions are always welcome!
 
+# License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 
 
