@@ -15,15 +15,15 @@ Lightweight and easy to use.
 
 ## Installation
 
-Step 1: Download or Clone the Repository
+### Step 1: Download or Clone the Repository
 
 Download the repository as a ZIP file or clone it using Git: git clone https://github.com/Abhijeet-Singh14/youtube-tab-control.git
 
-## Step 2: Extract the ZIP (if downloaded)
+### Step 2: Extract the ZIP (if downloaded)
 
 If you downloaded the ZIP file, extract it to a convenient location on your computer.
 
-##Step 3: Load the Extension in Chrome
+### Step 3: Load the Extension in Chrome
 
 Open Chrome and go to chrome://extensions/.
 Enable "Developer mode" using the toggle switch in the top right.
