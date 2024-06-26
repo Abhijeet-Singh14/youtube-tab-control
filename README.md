@@ -77,8 +77,22 @@ Icons not showing: Ensure that the icons are correctly placed in the icons direc
 ## Contributing
 Feel free to fork the repository and submit pull requests for any improvements or bug fixes. Contributions are always welcome!
 
-# License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- Thanks to [OpenAI](https://openai.com) for providing guidance and resources.
+
+## Support
+
+For support, bug reports, or feature requests, please [submit an issue](https://github.com/Abhijeet-Singh14/youtube-tab-control/issues).
+
+---
+
+© 2024 Abhijeet Singh
 
 
 
